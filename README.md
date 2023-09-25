@@ -8,6 +8,8 @@ Px4-Gazebo-Mavros联合仿真环境的搭建（Ubuntu20.04+ROS noetic）
 wget http://fishros.com/install -O fishros && . fishros
 ```
 
+参考文档：www.fishros.com
+
 ### QGC的安装（官网）
 
 ```shell
